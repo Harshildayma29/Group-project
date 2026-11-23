@@ -1,0 +1,17 @@
+PARKEASY PREMIUM | AHMEDABAD | EASY WINDOWS SETUP
+=============================================
+Requirements: Python 3. No pip install or Flask required.
+
+1. Extract this ZIP.
+2. In VS Code choose File > Open Folder and select ParkEasy_Premium_Ahmedabad.
+3. Terminal > New Terminal.
+4. Run: python server.py
+   (Or double click start.bat, or run python app.py.)
+5. Visit http://127.0.0.1:5000
+6. Register/login > find parking > Book Now > enter plate and hours > choose demo payment.
+
+STOP: press Ctrl+C in the VS Code terminal.
+
+Keep old bookings: Before starting, copy old data/parking.db into this project's data folder. The server updates its database columns without deleting the saved bookings.
+
+IMPORTANT: 48 sample locations, fabricated capacities/prices, not real-time Ahmedabad readings. UPI/card demo modes do not accept or process money. No UPI PIN/card/bank details needed. Pay at parking is a simulated booking status, not a real-world promise.

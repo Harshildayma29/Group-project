@@ -1,0 +1,1 @@
+Availability % = (free spaces / total spaces) × 100, rounded to two decimals. The graph shows up to 10 matching project locations. This is a measured fraction of stored illustrative slot counts, NOT real-world probability or validated AI prediction accuracy. A truly accurate forecast would require historical occupancy data and evaluation.
